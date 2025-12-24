@@ -38,10 +38,10 @@ It’s a beginner-friendly project showcasing:
 
 ## 📦 Running the App (Local)
 
-### 1. Clone the repo
-```bash
+1.Clone the Repo
 git clone https://github.com/MAN123-SAH/house-prediction-streamlit.git
 cd house-prediction-streamlit
+
 2. Create and activate virtual environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\\Scripts\\activate
